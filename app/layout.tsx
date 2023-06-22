@@ -13,7 +13,7 @@ import ClientOnly from './components/ClientOnly';
 import getCurrentUser from './actions/getCurrentUser';
 
 export const metadata = {
-  title: 'Airbnb',
+  title: 'SanBnb',
   description: 'Airbnb Clone',
 }
 
