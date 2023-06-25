@@ -99,7 +99,7 @@ Whether you're planning a weekend escape or looking to list your property for re
 
 <br />
 <br />
-Features:
+## :star3: Features
 
 - Tailwind design
 - Tailwind animations and effects
