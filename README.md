@@ -97,8 +97,8 @@ Whether you're planning a weekend escape or looking to list your property for re
 <a href="https://residencybook.vercel.app"><img  src='./public/ww.gif' alt='image'/></a>
 </div>
 
-
-
+<br />
+<br />
 Features:
 
 - Tailwind design
