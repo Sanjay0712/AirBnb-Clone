@@ -124,10 +124,10 @@ Whether you're planning a weekend escape or looking to list your property for re
 - Favorites system
 - Shareable URL filters
     - Lets say you select a category, location and date range, you will be able to share URL with a logged out friend in another browser and they will see the same results
-- How to write POST and DELETE routes in route handlers (app/api)
-- How to fetch data in server react components by directly accessing database (WITHOUT API! like Magic!)
-- How to handle files like error.tsx and loading.tsx which are new Next 13 templating files to unify loading and error handling
-- How to handle relations between Server and Child components!
+- POST and DELETE routes in route handlers (app/api)
+- Fetch data in server react components by directly accessing database (WITHOUT API! like Magic!)
+- Handle files like error.tsx and loading.tsx which are new Next 13 templating files to unify loading and error handling
+- Handle relations between Server and Child components!
 
 
 ## <a href="https://residencybook.vercel.app" target="_blank">LIVE DEMO 💥</a>
