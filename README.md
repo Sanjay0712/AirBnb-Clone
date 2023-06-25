@@ -44,6 +44,9 @@ Full Stack Airbnb Clone with Next.js 13 Tailwind-css, Prisma, MongoDB, NextAuth,
 
 <!-- About the Project -->
 
+
+## :star2: About the Project
+
 Introducing "SanBnb" - Your All-in-One Vacation Rental Platform
 
 SanBnb is a cutting-edge full-stack application that mirrors the functionality of Airbnb, providing an exceptional user experience for both travelers and property owners alike. With robust sign-up and login features, seamless integration of Next.js 13 as the client and server, MongoDB as the database, and Prisma for efficient data management, SanBnb revolutionizes the vacation rental industry.
@@ -68,8 +71,6 @@ SanBnb takes pride in providing exceptional customer support. Our dedicated team
 
 Discover Your Perfect Getaway with SanBnb:
 Whether you're planning a weekend escape or looking to list your property for rent, SanBnb is your go-to platform for vacation rentals. Join our vibrant community of travelers and property owners today and experience the convenience, reliability, and excitement that SanBnb has to offer. Book your dream accommodation or start earning by renting out your property with SanBnb, the ultimate vacation rental solution.
-
-## :star2: About the Project
 
 <!-- Screenshots -->
 
