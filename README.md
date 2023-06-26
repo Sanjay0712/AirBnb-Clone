@@ -11,8 +11,8 @@ Full Stack Airbnb Clone with Next.js 13 Tailwind-css, Prisma, MongoDB, NextAuth,
 <!-- Badges -->
 <a href="https://residencybook.vercel.app" target="_blank">![](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)</a>
 ![](https://img.shields.io/badge/Maintained-Yes-indigo)
-![](https://img.shields.io/github/issues/Sanjay0712/Airbnb-Build)
-![](https://img.shields.io/github/last-commit/Sanjay0712/Airbnb-Build)
+![](https://img.shields.io/github/issues/Sanjay0712/AirBnb-Build)
+![](https://img.shields.io/github/last-commit/Sanjay0712/AirBnb-Build)
 
 <h4>
     <a href="https://residencybook.vercel.app/">View Demo</a>
